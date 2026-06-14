@@ -19,5 +19,3 @@ bucket_name = "mab-r2-assets"
 [[kv_namespaces]]
 binding = "KV"
 id = "16dab913d0984cf58b26435d39f6abd5" # <--- Diisi hasil output Langkah 5
-
-a631e1fc-7545-4f57-80bb-c79cbddada68
