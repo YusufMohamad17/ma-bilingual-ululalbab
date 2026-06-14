@@ -1,5 +1,8 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "ma-bilingual-ululalbab"
+main = "src/index.ts"
+[assets]
+directory = "./dist"
 compatibility_date = "2024-04-03"
 compatibility_flags = [ "nodejs_compat" ]
 
