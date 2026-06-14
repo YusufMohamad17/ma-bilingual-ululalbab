@@ -1,0 +1,6 @@
+{
+  "name": "Website Madrasah Modern",
+  "description": "Website resmi Madrasah Modern MA Bilingual Ulul Albab dengan gaya akademik Oxford dan Panel Pengelola Terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
