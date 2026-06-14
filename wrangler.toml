@@ -18,7 +18,7 @@ compatibility_flags = [ "nodejs_compat" ]
 [[d1_databases]]
 binding = "DB"                                   # Diakses di kode worker: env.DB
 database_name = "mab-d1-db"                       # Nama database di Cloudflare
-database_id = "MASUKKAN_DATABASE_ID_ANDA_DISINI" # Ganti dengan ID asli dari output terminal
+database_id = "a631e1fc-7545-4f57-80bb-c79cbddada68" # Ganti dengan ID asli dari output terminal
 migrations_dir = "migrations"                     # Lokasi folder migrasi SQL Anda
 
 # ==============================================================================
@@ -39,5 +39,5 @@ bucket_name = "mab-r2-assets"                     # Nama bucket di Cloudflare
 # Salin "id" hasil dari terminal di atas, lalu tempel di bawah ini:
 [[kv_namespaces]]
 binding = "KV"                                   # Diakses di kode worker: env.KV
-id = "MASUKKAN_KV_ID_ANDA_DISINI"                # Ganti dengan ID asli dari output terminal
+id = "3b24e715e1ca4c7ea4cbbc5fb4115291"                # Ganti dengan ID asli dari output terminal
 
