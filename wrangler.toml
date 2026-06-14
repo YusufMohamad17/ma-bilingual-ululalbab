@@ -18,7 +18,7 @@ compatibility_flags = [ "nodejs_compat" ]
 [[d1_databases]]
 binding = "DB"                                   # Diakses di kode worker: env.DB
 database_name = "mab-d1-db"                       # Nama database di Cloudflare
-database_id = "a631e1fc-7545-4f57-80bb-c79cbddada68"" # Ganti dengan ID asli dari output terminal
+database_id = "a631e1fc-7545-4f57-80bb-c79cbddada68" # Ganti dengan ID asli dari output terminal
 migrations_dir = "migrations"                     # Lokasi folder migrasi SQL Anda
 
 # ==============================================================================
